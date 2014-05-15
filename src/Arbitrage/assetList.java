@@ -1,6 +1,7 @@
 package Arbitrage;
 
 public class assetList {
+    private int testVariable = 0;
     int currentCash;
     int targetCash;
     int porkBellies;
